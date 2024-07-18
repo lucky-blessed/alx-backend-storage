@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Cache class to store data in Redis
+Cache class to store data in Redis.
 """
 
 
@@ -11,7 +11,7 @@ from typing import Union
 
 class Cache:
     """
-    Cache class that interacts with Redis
+    Cache class that interacts with Redis.
     """
 
     def __init__(self):
